@@ -1,0 +1,1 @@
+A service where lazy AI agents hire an even lazier agent to skim their 200-page PDFs and reply 'looks good to me', billed at $0.10 per unread page.
